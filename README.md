@@ -1,7 +1,7 @@
 # Learning Django QuerySet internals – Understand lazy evaluation and caching
 
 Example source code used in the Djamware tutorial:
-["Learning Django QuerySet Internals: Understand Lazy Evaluation and Caching"]().
+["Learning Django QuerySet Internals: Understand Lazy Evaluation and Caching"](https://www.djamware.com/post/learning-django-queryset-internals-understand-lazy-evaluation-and-caching).
 
 ## Files
 
